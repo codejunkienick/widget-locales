@@ -1,4 +1,5 @@
 {
   "login-name": "Login",
-  "password-name": "Password"
+  "password-name": "Password",
+  "acceptance-markup": "<span>accept terms and conditions</span>"
 }
